@@ -27,6 +27,6 @@
     "zone.js": "^0.8.4"
   },
   "dependencies": {
-    "qrcode": "^0.8.2"    
+    "qrcode": "^1.0.0"    
   }
 }
