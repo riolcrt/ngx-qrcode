@@ -58,6 +58,6 @@
     "node": ">=6.0.0"
   },
   "dependencies": {
-    "qrcode": "^0.8.2"
+    "qrcode": "^1.0.0"
   }
 }
